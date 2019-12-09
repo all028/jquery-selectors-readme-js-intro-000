@@ -16,5 +16,5 @@ function divSelector(){
 }//end divSelector
 
 function firstListItem(){
-
+  return $('img:first')
 }//end firstListItem
