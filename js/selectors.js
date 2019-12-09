@@ -12,7 +12,7 @@ function ninjaBabySelector(){
 }//end ninjaBabySelector
 
 function divSelector(){
-
+  return $('.pics')
 
 }//end divSelector
 
